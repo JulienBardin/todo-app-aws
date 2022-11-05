@@ -3,8 +3,6 @@ name: SAM Deploy todo-houessou-com attachments service
 on:
   push:
       branches: [ main ]
-      paths:
-        - 'backend/attachments-service/**'
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
