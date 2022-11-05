@@ -15,7 +15,7 @@ In this post I will be going through the overall setup of the app and how I depl
 
 Before I go into the architecture, let me describe what the app is about and what it does. The app is a todo list manager which helps a user manage and track his/her todo list along with their files or attachments. The user can also find specific todos through the search. 
 
-### Basic Functionality
+### Basic Functionality  
 
 ![appflow.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1627647453541/A17idrTi1.png)
 The image above should describe the app basic functionalities.
